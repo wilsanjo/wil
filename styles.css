@@ -1,0 +1,47 @@
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+
+/* Contact Information */
+
+.contact-information {
+	margin-top: 140px;
+}
+
+.contact-information .contact-item {
+    padding: 60px 30px;
+    text-align: center;
+}
+
+.contact-information .contact-item i {
+	color: skyblue;
+	font-size: 48px;
+	margin-bottom: 40px;
+}
+
+.contact-information .contact-item h4 {
+	font-size: 20px;
+	font-weight: 700;
+	letter-spacing: 0.25px;
+	margin-bottom: 15px;
+}
+
+.contact-information .contact-item p {
+	margin-bottom: 20px;
+}
+
+.contact-information .contact-item a {
+    font-weight: 600;
+    color: #a4c639;
+    font-size: 15px;
+    background-color: #1C1616;
+}
